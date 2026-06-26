@@ -1,3 +1,5 @@
+Moved to NillionNetwork/n8n-nilai-node.
+
 # n8n-nodes-nilai
 
 Use [Nillion **nilAI**](https://docs.nillion.com/build/private-llms/overview) — private LLM inference that runs inside a **Trusted Execution Environment (TEE)** — directly in your n8n workflows, with **built-in cryptographic verification** of every response.
